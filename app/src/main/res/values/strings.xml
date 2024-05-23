@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Evaluacion_M4</string>
+    <string name="celeste">Evaluacion_M4</string>
+    <string name="nombreSingUpPage">Nombre</string>
+    <string name="apellidoSingUpPage">Apellido</string>
+    <string name="emailSingUpPage">Email</string>
+    <string name="contrasenyaSingUpPage">Contraseña</string>
+    <string name="regsitrarcontrasenyaSingUpPage">Reingresar contraseña</string>
+    <string name="textoSingUpPage">Registrarse y empieza a transferir!!</string>
+    <string name="botonSingUpPage">Crear Cuenta</string>
+    <string name="yatienesCuentaSingUpPage">Ya tienes Cuenta??</string>
+    <string name="olvidateTuConLoginPage">Olvidaste tu contraseña ?</string>
+    <string name="textoLoginPage">Olvidaste tu contraseña ?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingresa_tu_email">Ingresa tu email</string>
+    <string name="logea_y_empieza_a_transferir">Logea y empieza a transferir!!</string>
+    <string name="ingresa_tu_contrase_a">Ingresa tu contraseña</string>
+    <string name="crea_una_cuenta_nueva">Crea una cuenta nueva</string>
+    <string name="ya_tiene_cuenta">Ya tiene cuenta?</string>
+    <string name="crear_cuenta_nueva">Crear cuenta nueva</string>
+</resources>
